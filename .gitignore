@@ -12,8 +12,7 @@ tmp/
 *.swp
 *~.nib
 local.properties
-.classpath
-.settings/
+/
 .loadpath
 
 # External tool builders
@@ -140,7 +139,6 @@ csx
 AppPackages/
 
 # Others
-sql/
 *.Cache
 ClientBin/
 [Ss]tyle[Cc]op.*
